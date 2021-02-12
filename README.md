@@ -10,7 +10,7 @@ Has a simple UI with some features:
 * Optimal recognition point is marked with red.
 * Manual word switching when paused.
 * Word delay is based on word length and position is sentence.
-* At start speed increasing smoothly for more comfort.
+* Smooth speed increasing at start for more comfort.
 
 Run ``rsvp_player.py`` to open player.
 
